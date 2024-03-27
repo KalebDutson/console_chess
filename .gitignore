@@ -1,0 +1,7 @@
+*.vscode
+*build/
+*debug/
+*Debug/
+*.code-workspace
+*.sh
+testing/
